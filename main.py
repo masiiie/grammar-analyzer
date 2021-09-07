@@ -1,6 +1,6 @@
 import grammar
 
-def mi_metodo():
+def main():
     print('Inserte archivo')
     direccion = input()
     stream = open(direccion)
@@ -90,4 +90,4 @@ def ordenar(lista):
         cadena = input().split()
 '''
 
-mi_metodo()
+main()
