@@ -1,0 +1,3 @@
+X --> A B c
+A --> a | epsilon
+B --> epsilon

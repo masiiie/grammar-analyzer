@@ -1,0 +1,7 @@
+S --> K f | b B Z
+K --> X Y | a A
+A --> c Z c | a A | epsilon
+B --> b A | A
+X --> epsilon | c X
+Y --> d Z | epsilon
+Z --> d

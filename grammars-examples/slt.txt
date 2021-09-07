@@ -1,0 +1,4 @@
+S --> A X
+A --> a A | epsilon
+X --> b B | c B
+B --> X | epsilon

@@ -1,0 +1,4 @@
+S --> X a Y | b Z
+X --> a X | c X | b b
+Z --> b Y
+Y --> Y b Y b Y | c | epsilon

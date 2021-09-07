@@ -1,0 +1,5 @@
+S --> a S b | b S | A S | o
+A --> c X Y | d Z
+X --> d X c | epsilon
+Y --> a Y b | b
+Z --> b Z | X a

@@ -1,0 +1,3 @@
+S --> A B e | S d | c
+A --> A a A B d | c | epsilon
+B --> b B | epsilon

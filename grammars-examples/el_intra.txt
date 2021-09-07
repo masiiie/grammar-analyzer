@@ -1,0 +1,4 @@
+F --> H a | H p p | H i | H p H | epsilon
+H --> [ M ] | s | epsilon
+M --> K M | epsilon
+K --> s - s | s
