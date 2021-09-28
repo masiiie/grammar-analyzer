@@ -1,0 +1,116 @@
+body
+{
+	background-color: #FFFFF5;
+	display: inline-block;
+}
+
+div
+{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.punto
+{
+	font-family: "Courier New" , Courier, monospace;
+	color: #000000;
+}
+
+.flecha
+{
+	padding: 5px
+}
+
+.simbolo
+{
+	font-family: "Courier New" , Courier, monospace;
+	color: #000066;
+	font-weight: bold;
+	padding: 1px
+}
+
+div.level1Div
+{
+	border: thin solid #ADADC9;
+	padding: 8pt;
+	margin-top: 8pt;
+}
+
+h1
+{
+	padding: 4pt;
+	margin: 0pt;
+}
+div.level2Div
+{
+	border: thin solid #ADADC9;
+	padding: 8pt;
+	margin-top: 8pt;
+}
+h2
+{
+	background-color: #0E8532;
+	color: #FFFFFF;
+	padding: 4pt;
+	margin: 5px;
+}
+
+h3
+{
+	background-color: #BB70A3;
+	color: #FFFFFF;
+	padding: 4pt;
+	margin: 5px;
+}
+
+ul
+{
+	list-style-type: none;
+	padding: 6pt;
+	margin: 0pt;
+}
+h3
+{
+	padding: 4pt;
+	margin: 0pt;
+}
+
+sup
+{
+	margin: 2px
+}
+
+div
+{
+	border: thin solid #ddd;
+	padding: 8pt;
+	margin-top: 8pt;
+}
+
+h4
+{
+	padding: 4pt;
+	margin: 2pt;
+}
+
+
+table, td, th {    
+	border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+	margin-top: 8pt;
+	border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+td.separador
+{
+	padding: 0px;
+	margin: 1px;
+}
+
